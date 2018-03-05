@@ -4,13 +4,17 @@ html{
   text-align: center;
 }
 /*header*/
+.header{
+  background-image: url(resources\images\the-flatiron-building.png);
+}
+
 h1{
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 /*Middle*/
-.Einteilung{
+.Einteilung p{
   font-size: 18px;
   color: white;
 }
